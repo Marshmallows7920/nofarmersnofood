@@ -1,0 +1,31 @@
+# Site settings
+title: With Farmers
+email: contact@withfarmers.ca
+# url: https://example.github.io
+description: "Millions of farmers, their families, and allies from around the country are participating in the largest protest in the world"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  # primary-dark: '#05360c'
+  primary-dark: '#35523d'
+  links: '#219ab3'
+
+# Footer settings
+footer: With Farmers
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: instagram
+    url: https://www.instagram.com/withfarmerscanada/
+  # - title: facebook
+    # url:
+  # - title: stack-overflow
+    # url: http://stackoverflow.com/questions/tagged/jekyll
+  # - title: bitbucket
+    # url: http://bitbucket.org/jekyll
+  # - title: github
+    # url: https://github.com/IronSummitMedia/startbootstrap
+
+# Build settings
+markdown: kramdown
+permalink: pretty
